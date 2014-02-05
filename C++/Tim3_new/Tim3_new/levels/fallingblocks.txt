@@ -1,0 +1,10 @@
+Inventory: Ball 0 
+Inventory: Rocket 0 
+Inventory: Brick 0 
+Inventory: Tank 0 
+Inventory: Convey 0 
+Inventory: Laser 0 
+Box2: 50 60 0 100 1 0 
+BouncingBox: -32.8375 -14.4165 -7.58783e-005 4 8.25 1 -34.2105 50.5721 8 16.5 -0.00434751 
+BouncingBox: 10.8696 -56.0641 -7.58783e-005 4 8.25 1 11.3272 49.8856 8 16.5 -0.00434751 
+BouncingBox: 75.6293 -91.0755 -7.58783e-005 4 8.25 1 74.0275 49.6567 8 16.5 -0.00434751 

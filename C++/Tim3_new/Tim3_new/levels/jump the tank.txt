@@ -1,0 +1,11 @@
+Inventory: Ball 0 
+Inventory: Rocket 0 
+Inventory: Brick 0 
+Inventory: Tank 0 
+Inventory: Convey 1 
+Inventory: Laser 0 
+Box2: 50 60 0 100 1 0 
+BouncingBox: 153.352 58.3633 -0.3 4 0.5 0 
+Tankki: 117.965 56.6217 25.1469 4 1 20 -25 379.139 81.7346 32 43.5 1618.43 
+BouncingBox: 193.738 90.4089 0.2 16 0.5 0 
+BouncingBox: 260.657 99.8662 -7.45058e-009 16 0.5 0 

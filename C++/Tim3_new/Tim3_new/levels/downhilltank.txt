@@ -1,0 +1,12 @@
+Inventory: Ball 0 
+Inventory: Rocket 0 
+Inventory: Brick 1 
+Inventory: Tank 0 
+Inventory: Convey 0 
+Inventory: Laser 0 
+Box2: 50 60 0 100 1 0 
+Box2: -68.0692 7.36288 0.54 32 0.5 0 
+Box2: -20.5072 30.7146 0.39 32 0.5 0 
+Box2: 21.2169 44.1075 0.0899999 16 0.5 0 
+Box2: 49.3763 45.1377 -0.0600001 16 0.5 0 
+Tankki: -84.7006 -7.30943 0.5996 4 1 20 -25 57.6209 52.4126 16 10.5 -0.0229345 
