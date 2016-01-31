@@ -7,4 +7,4 @@ A sidescrolling jetpack game done for a space themed course project.
 ## Studio 4 (Processing)
 A collection of course projects done with Processing. Includes an interactive painting, interactive GDP map and a bird hunting game originally designed for Phidget controllers.
 ## Mindbang (Java)
-Java course final project. The two-player artillery game.
+Java course final project. A two-player artillery game.
