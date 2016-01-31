@@ -1,5 +1,4 @@
-# portfolio
-Portfolio of my school projects between 2012-2014
+# Portfolio of some of my school projects between 2012-2014
 
 ## Tim3 (C++)
 C++ course final group project. Our group did a remix of The Incredible Machine from 1993.
